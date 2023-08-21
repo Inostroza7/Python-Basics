@@ -1,45 +1,25 @@
-### Variables ###
+# Lección 2: Variables
 
-my_string_variable = "My String variable"
-print(my_string_variable)
+# El objetivo de esta lección es enseñar cómo declarar y utilizar diferentes tipos de variables en Python, 
+# incluyendo cadenas de texto, números enteros, booleanos, y la conversión de tipos. Simplificaré el contenido
+# para que sea más accesible.
 
-my_int_variable = 5
-print(my_int_variable)
+# Declarando diferentes tipos de variables
+string_variable = "Texto"
+int_variable = 5
+float_variable = 1.5
+bool_variable = True
 
-my_int_to_str_variable = str(my_int_variable)
-print(my_int_to_str_variable)
-print(type(my_int_to_str_variable))
+# Imprimiendo las variables
+print(string_variable)  # Salida: Texto
+print(int_variable)     # Salida: 5
+print(float_variable)   # Salida: 1.5
+print(bool_variable)    # Salida: True
 
-my_bool_variable = False
-print(my_bool_variable)
+# Convirtiendo un entero a una cadena de texto
+int_to_str_variable = str(int_variable)
+print(int_to_str_variable)  # Salida: '5'
 
-# Concatenación de variables en un print
-print(my_string_variable, my_int_to_str_variable, my_bool_variable)
-print("Este es el valor de:", my_bool_variable)
-
-# Algunas funciones del sistema
-print(len(my_string_variable))
-
-# Variables en una sola línea. ¡Cuidado con abusar de esta sintaxis!
-name, surname, alias, age = "Brais", "Moure", 'MoureDev', 35
-print("Me llamo:", name, surname, ". Mi edad es:",
-      age, ". Y mi alias es:", alias)
-
-# Inputs
-name = input('¿Cuál es tu nombre? ')
-age = input('¿Cuántos años tienes? ')
-print(name)
-print(age)
-
-# Cambiamos su tipo
-name = 35
-age = "Brais"
-print(name)
-print(age)
-
-# ¿Forzamos el tipo?
-address: str = "Mi dirección"
-address = True
-address = 5
-address = 1.2
-print(type(address))
+# Utilizando input para solicitar datos al usuario (comentado para evitar la interacción en este ejemplo)
+# name = input('¿Cuál es tu nombre? ')
+# print("Tu nombre es:", name)
