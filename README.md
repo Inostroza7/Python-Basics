@@ -8,17 +8,17 @@ Este repositorio está diseñado para enseñar los conceptos básicos de Python 
 2. **Hola Mundo**: Creación del primer programa en Python para imprimir "Hola Mundo".
 3. **Variables**: Introducción a las variables y tipos de datos en Python.
 4. **Operadores**: Exploración de los operadores aritméticos, lógicos y de comparación.
-5. **Lección 5 - Strings**: Manejo de cadenas de texto y operaciones comunes.
-6. **Lección 6 - Listas**: Trabajo con listas y métodos asociados.
-7. **Lección 7 - Tuplas**: Uso de tuplas como estructuras de datos inmutables.
-8. **Lección 8 - Sets**: Introducción a los conjuntos y sus operaciones.
-9. **Lección 9 - Diccionarios**: Creación y manejo de diccionarios.
-10. **Lección 10 - Condicionales**: Uso de declaraciones condicionales para controlar el flujo del programa.
-11. **Lección 11 - Bucles/Loops/Ciclos**: Implementación de bucles y ciclos para repetir tareas.
-12. **Lección 12 - Funciones**: Definición y llamada a funciones en Python.
-13. **Lección 13 - Clases**: Introducción a la programación orientada a objetos con clases.
-14. **Lección 14 - Excepciones**: Manejo de errores y excepciones.
-15. **Lección 15 - Módulos**: Importación y uso de módulos en Python.
+5. **Strings**: Manejo de cadenas de texto y operaciones comunes.
+6. **Listas**: Trabajo con listas y métodos asociados.
+7. **Tuplas**: Uso de tuplas como estructuras de datos inmutables.
+8. **Sets**: Introducción a los conjuntos y sus operaciones.
+9. **Diccionarios**: Creación y manejo de diccionarios.
+10. **Condicionales**: Uso de declaraciones condicionales para controlar el flujo del programa.
+11. **Bucles/Loops/Ciclos**: Implementación de bucles y ciclos para repetir tareas.
+12. **Funciones**: Definición y llamada a funciones en Python.
+13. **Clases**: Introducción a la programación orientada a objetos con clases.
+14. **Excepciones**: Manejo de errores y excepciones.
+15. **Módulos**: Importación y uso de módulos en Python.
 
 ## Cómo utilizar este repositorio 💻
 
