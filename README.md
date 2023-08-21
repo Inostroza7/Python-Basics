@@ -4,10 +4,10 @@ Este repositorio está diseñado para enseñar los conceptos básicos de Python 
 
 ## Contenido 📚
 
-1. **Lección 1 - Configuración**: Preparación del entorno de desarrollo y configuración de las herramientas necesarias.
-2. **Lección 2 - Hola Mundo**: Creación del primer programa en Python para imprimir "Hola Mundo".
-3. **Lección 3 - Variables**: Introducción a las variables y tipos de datos en Python.
-4. **Lección 4 - Operadores**: Exploración de los operadores aritméticos, lógicos y de comparación.
+1. **Configuración**: Preparación del entorno de desarrollo y configuración de las herramientas necesarias.
+2. **Hola Mundo**: Creación del primer programa en Python para imprimir "Hola Mundo".
+3. **Variables**: Introducción a las variables y tipos de datos en Python.
+4. **Operadores**: Exploración de los operadores aritméticos, lógicos y de comparación.
 5. **Lección 5 - Strings**: Manejo de cadenas de texto y operaciones comunes.
 6. **Lección 6 - Listas**: Trabajo con listas y métodos asociados.
 7. **Lección 7 - Tuplas**: Uso de tuplas como estructuras de datos inmutables.
