@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
 # Python Basics 🐍
 
 Python es un lenguaje de programación de alto nivel, interpretado y de propósito general. Con su diseño sencillo y fácil de leer, se ha convertido en uno de los lenguajes de programación más populares del mundo 🌎. Su versatilidad lo hace perfecto para la programación web, científica, análisis de datos, inteligencia artificial y mucho más. Aprender Python es una habilidad esencial en el mundo moderno de la tecnología 💻.
